@@ -1,6 +1,6 @@
 # Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors
 
-This repository is the official implementation of Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors,
+This repository is the official implementation of [Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors](https://dl.acm.org/doi/abs/10.1145/3637528.3671846),
 Taehyung Kwon, Jihoon Ko, Jinhong Jung, Jun-Gi Jang, and Kijung Shin, KDD 2024.
 
 ## Requirements
